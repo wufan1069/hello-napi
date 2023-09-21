@@ -1,0 +1,18 @@
+{
+  "name": "hello-napi-android-arm-eabi",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "hello-napi.android-arm-eabi.node",
+  "files": [
+    "hello-napi.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
